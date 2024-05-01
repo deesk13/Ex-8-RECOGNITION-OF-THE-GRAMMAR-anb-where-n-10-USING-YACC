@@ -2,6 +2,7 @@
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # NAME: DEVA DHARSHINI I
 # Date:27.03.2024
+# REGISTER NO: 212223240026
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
